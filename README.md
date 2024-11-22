@@ -1,5 +1,3 @@
-# PHY442 Project
-
 A Github repository containing my course project for PHY442 (General Relativity).
 
 This project involved the study of differential forms and rewriting Maxwell's Equations using them. 
